@@ -1,0 +1,33 @@
+Mean		Ruby		ios
+Python		WebFundamentals	netcore
+
+./Mean:
+about.txt
+
+./Python:
+about.txt
+
+./Ruby:
+about.txt
+
+./WebFundamentals:
+CSS		Git		HTML		Javascript	about.txt
+
+./WebFundamentals/CSS:
+about.txt
+
+./WebFundamentals/Git:
+about.txt
+
+./WebFundamentals/HTML:
+about.txt		indentation.html
+
+./WebFundamentals/Javascript:
+about.txt
+
+./ios:
+about.txt
+
+./netcore:
+about.txt
+Rodneys-MBP:DojoAssignments rodneyvictornjii$ 
