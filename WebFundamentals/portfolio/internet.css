@@ -1,0 +1,31 @@
+*{
+  margin-left: 2px;
+  padding: 0px;
+}
+#wrapper{
+  /*width: 970px;*/
+  margin: 10px, 15px;
+  /*background-color: silver;*/
+  /*color: black;*/
+  display: inline-block;
+}
+#header {
+display: inline;
+}
+#main_content {
+  /*width: inherit;*/
+  height: 70px;
+  background-color: #3e79ad;
+  /*border-radius: 5px;*/
+  /*font-size: 20px;*/
+  padding-top: 5px;
+  /*box-shadow: 40px 2px 2px grey;*/
+  color: white;
+  text-align: left center;
+}
+#header-right{
+  display: inline-block;
+  margin-left: 240px;
+  text-align: center;
+  vertical-align: text-bottom;
+}

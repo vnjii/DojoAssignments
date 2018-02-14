@@ -4,42 +4,47 @@
  padding: 0px;
 }
 #wrapper{
- width: 950px;
- background-color: silver;
+ width: 940px;
+ background-color: brown;
  margin: 0px auto;
  padding: 15px;
 }
 #header{
- height: 150px;
- background-color: green;
+ height: 70px;
+ background-color: grey;
  margin-bottom: 15px
 }
+#header h2{
+  display: inline-block;
+  margin-right: 480px
+}
 #navigation{
- height: 300px;
- width: 200px;
+ height: 320px;
+ width: 420px;
  background-color: blue;
  display: inline-block;
  vertical-align: top;
+ margin-: 15px;
 }
 #main_content{
- height: 400px;
- width: 700px;
+ height: 300px;
+ width: 470px;
  background-color: red;
  display: inline-block;
  margin-left: 15px;
  padding: 15px;
 }
 .subcontents{
- height: 200px;
- width: 210px;
- background-color: yellow;
+ height: 300px;
+ width: 310px;
+ background-color: pink;
  display: inline-block;
  margin-right: 15px
  padding: 15px;
 }
 #advertisement{
- height: 120px;
- width: 670px;
- background-color: purple;
+ height: 90px;
+ width: 940px;
+ background-color: grey;
  margin-top: 15px;
 }
